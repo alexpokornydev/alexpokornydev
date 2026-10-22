@@ -88,7 +88,7 @@ tspan {
 <tspan x="490" y="75" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">15 years, 4 months, 19 days</tspan>
 <tspan x="490" y="95" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Kundolap</tspan>
 <tspan x="490" y="115" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Linux</tspan>
-<tspan x="490" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, IntelliJ IDEA</tspan>
+<tspan x="490" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, IntelliJ IDEA, Zed</tspan>
 
 <tspan x="490" y="175">- Languages</tspan> -——————————————————————————————————————————————-
 
